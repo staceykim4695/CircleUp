@@ -1,8 +1,8 @@
-#CircleUp Software Engineering Internship
+# CircleUp Software Engineering Internship
 
 I used JavaScript to do all my analyses.
 
-##Fruit Salad:
+## Fruit Salad:
 
 I used the request npm package to obtain the json1 file:
 
@@ -16,6 +16,6 @@ I made a few assumptions when analyzing the data:
 - A non-decimal number is required to complete analyses on further sections (favorite_fruit.median_age), so exactly half the length was taken to calculate the median
 - I interpreted all the 'most common's as one most common, rather than several 'most common's
 
-##Product Sales:
+## Product Sales:
 
 I provided a query in the productSales.sql that would generate the correct metrics.
